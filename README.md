@@ -1,2 +1,1 @@
-# card
-A sample of business card
+# space exploration form to join the travelling to the space.
